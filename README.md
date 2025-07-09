@@ -1,23 +1,23 @@
 # nodejs-online-notebook
 
-This project is an online notes application built with Express.js, Pug, and MongoDB. Users can create, view, edit, and delete notes securely using a session-based authentication system.
+Bu proje Node.js, Express.js, Pug ve MongoDB ile oluşturulmuş bir çevrimiçi not uygulamasıdır. Kullanıcılar, oturum tabanlı bir kimlik doğrulama sistemi kullanarak notları güvenli bir şekilde oluşturabilir, görüntüleyebilir, düzenleyebilir ve silebilir.
 
-## Features
-- User authentication (login/logout)
-- Create, read, update, and delete notes
-- Responsive design with Pug templating engine
-- Session management for user login state
+## Özellikler
+- Kullanıcı kimlik doğrulaması (giriş/çıkış)
+- Not oluşturma, okuma, güncelleme ve silme
+- Pug şablonlama motoruyla duyarlı tasarım
+- Kullanıcı oturum açma durumu için oturum yönetimi
 
-## Technologies Used
-- **Node.js**: JavaScript runtime for server-side development
-- **Express.js**: Web application framework for Node.js
-- **Pug**: Templating engine for rendering HTML
-- **MongoDB**: NoSQL database for data storage
-- **Supertest**: Testing framework for HTTP assertions
+## Kullanılan Teknolojiler
+- **Node.js**: Sunucu taraflı geliştirme için JavaScript çalışma zamanı
+- **Express.js**: Node.js için web uygulama çerçevesi
+- **Pug**: HTML işleme için şablonlama motoru
+- **MongoDB**: Veri depolama için NoSQL veritabanı
+- **Süper Test**: HTTP onayları için çerçeveyi test etme
 
-## Installation
+## Kurulum
 
-### Prerequisites
+### Önkoşullar
 - Node.js
 - MongoDB
 
